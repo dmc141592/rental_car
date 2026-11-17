@@ -80,7 +80,7 @@ button:disabled { cursor: not-allowed; }
   position: absolute;
   left: 0; right: 0.26em; bottom: 0;
   height: 1px;
-  background: var(--accent);
+  background: var(--highlight);
   transform: scaleX(0);
   transform-origin: right;
   transition: transform 0.4s var(--ease);
