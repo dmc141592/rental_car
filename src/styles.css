@@ -658,7 +658,7 @@ button:disabled { cursor: not-allowed; }
   .vehicle-list li { flex: none; scroll-snap-align: start; }
   .vl-item { grid-template-columns: 30px auto; padding: 8px 16px 8px 10px; border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 999px; column-gap: 8px; }
   .vl-item:hover { transform: none; }
-  .vl-item.active { border-color: rgba(168, 197, 160, 0.6); }
+  .vl-item.active { border-color: rgba(196, 84, 76, 0.6); }
   .vl-brand { display: none; }
   .brand-logo { width: 30px; height: 26px; }
   .brand-logo svg { transform: scale(0.8); }
